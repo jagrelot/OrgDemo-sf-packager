@@ -1,3 +1,8 @@
+/*
+    Author: Jose Agrelot
+
+*/
+
 public with sharing class LoanCustomController {
 
     private final Loan__c loan;
